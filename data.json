@@ -1,0 +1,110 @@
+{
+    "arabica": [
+        {
+            "foto": "https://img.freepik.com/free-photo/frappe-glass-slices-bread-with-seeds_23-2148623233.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Arabica Delight",
+            "size": "250 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/close-up-tasty-beverage-with-cream_23-2148349609.jpg?w=1380&t=st=1691688052~exp=1691688652~hmac=c6d6a37784ff4e8b66a4fc271f9e6743c7cd361dd3e7b1eb16aec002b1d29b2b",
+            "nama": "Creamy Arabica Latte",
+            "size": "350 ml",
+            "harga": "Rp25,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/glass-with-iced-coffee-table_23-2148937326.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Arabica Mocha Madness",
+            "size": "200 ml",
+            "harga": "Rp22,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/iced-coffee-with-chocolate-syrup_1150-18528.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Iced Arabica Bliss",
+            "size": "250 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/premium-photo/cafe-latte-with-whipped-cream-caramel_214995-5081.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Arabica Caramel Dream",
+            "size": "350 ml",
+            "harga": "Rp27,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/coffee-drink-topped-with-crushed-cookie-walnuts_140725-3574.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Hazelnut Arabica Latte",
+            "size": "300 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/cup-coffee-with-whipped-cream-coffee-sprinkles_140725-5973.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Arabica Vanilla Frappe",
+            "size": "400 ml",
+            "harga": "Rp20,000"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "https://img.freepik.com/free-photo/whiskey-with-cinnamon-table_140725-75.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Robusta Classic",
+            "size": "200 ml",
+            "harga": "Rp15,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/easter-coffee-decorations-still-life_23-2150244070.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Rich Robusta Espresso",
+            "size": "250 ml",
+            "harga": "Rp15,000"
+        },
+        {
+            "foto": "https://img.freepik.com/premium-photo/ice-coffee-tall-glass-with-cream_79782-1149.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Robusta Vanilla Latte",
+            "size": "350 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/splashes-cold-cola-drink_144627-16207.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Iced Robusta Splash",
+            "size": "250 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/glass-cold-coffee-drink-garnished-with-whipped-cream-caramel-with-nuts_140725-6931.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Creamy Robusta Macchiato",
+            "size": "200 ml",
+            "harga": "Rp25,000"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/summertime-smoothie-with-raspberry-blackberry-strawberry-ice_140725-3953.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Fruit Punch",
+            "size": "300 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/vertical-shot-glass-jar-mojito-drink-with-mint-leaves-lemon-slices-wooden-drink_181624-47141.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Minty Lemonade",
+            "size": "350 ml",
+            "harga": "Rp10,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/front-view-raspberry-cocktail_23-2148371230.jpg?w=826&t=st=1691688659~exp=1691689259~hmac=012fd4779f703b042c9781b56eacba8d678c9cd28804f80ccbbf73ea038ed416",
+            "nama": "Sparkling Cranberry",
+            "size": "300 ml",
+            "harga": "Rp20,000"
+        },
+        {
+            "foto": "https://img.freepik.com/free-photo/closeup-glass-blue-lagoon-cocktail-decorated-with-lime-festive-bar-counter_114579-278.jpg?w=740&t=st=1691688714~exp=1691689314~hmac=d4acd297e5823e07232e55c34b89f38c364347182e6e96b7e5f0916c3209766a",
+            "nama": "Tropical Breeze",
+            "size": "350 ml",
+            "harga": "Rp22,000"
+        },
+        {
+            "foto": "https://img.freepik.com/premium-photo/cold-fruit-tea-with-ice-tall-glass_338311-1024.jpg?size=626&ext=jpg&ga=GA1.2.339945297.1665018516&semt=ais",
+            "nama": "Classic Iced Tea",
+            "size": "250 ml",
+            "harga": "Rp5,000"
+        }
+    ]
+}
